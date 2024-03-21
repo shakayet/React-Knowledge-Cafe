@@ -1,0 +1,53 @@
+[
+    {
+      "Id": 1,
+      "cover": "https://img.freepik.com/free-psd/digital-marketing-facebook-cover-page-template_237398-170.jpg?t=st=1710963390~exp=1710966990~hmac=ba490c729fc3d3ee82be5cd67ca7dca124903f938c21af7c32e387750efc6ab1&w=826",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "author_img": "https://img.freepik.com/free-photo/guy-plaid-shirt_158595-125.jpg?t=st=1710963620~exp=1710967220~hmac=f3d5e5c6c37a6cb31e5d923654fc23856ac1da0a3fa4e24180711ba536a15755&w=360",
+      "posted_date": "2024-03-20",
+      "reading_time": 120, 
+      "hashtags": ["classic", "fiction", "roaringtwenties"]
+    },
+    {
+      "Id": 2,
+      "cover": "https://img.freepik.com/free-psd/furniture-facebook-cover-web-banner-template_237398-243.jpg?t=st=1710963455~exp=1710967055~hmac=d76023fc86784348f06a65e89dd8285f73ae8ce30ea1d9d6f90258267849386f&w=826",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "author_img": "https://img.freepik.com/free-photo/guy-plaid-shirt_158595-125.jpg?t=st=1710963620~exp=1710967220~hmac=f3d5e5c6c37a6cb31e5d923654fc23856ac1da0a3fa4e24180711ba536a15755&w=360",
+      "posted_date": "2024-03-20",
+      "reading_time": 180, 
+      "hashtags": ["classic", "fiction", "racialjustice"]
+    },
+    {
+      "Id": 3,
+      "cover": "https://img.freepik.com/free-psd/fitness-web-banner-social-media-template_237398-377.jpg?t=st=1710963478~exp=1710967078~hmac=ad9baf79179899698e6878ce3367a47a1de9857d3df7b03e77be8dad7b933aeb&w=826",
+      "title": "1984",
+      "author": "George Orwell",
+      "author_img": "https://img.freepik.com/free-photo/guy-plaid-shirt_158595-125.jpg?t=st=1710963620~exp=1710967220~hmac=f3d5e5c6c37a6cb31e5d923654fc23856ac1da0a3fa4e24180711ba536a15755&w=360",
+      "posted_date": "2024-03-20",
+      "reading_time": 240, 
+      "hashtags": ["dystopian", "fiction", "surveillance"]
+    },
+    {
+      "Id": 4,
+      "cover": "https://img.freepik.com/premium-psd/trendy-dynamic-youtube-banner-social-media-instagram-post-feed-template_514593-323.jpg?w=740",
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "author_img": "https://img.freepik.com/free-photo/guy-plaid-shirt_158595-125.jpg?t=st=1710963620~exp=1710967220~hmac=f3d5e5c6c37a6cb31e5d923654fc23856ac1da0a3fa4e24180711ba536a15755&w=360",
+      "posted_date": "2024-03-20",
+      "reading_time": 150, 
+      "hashtags": ["classic", "fiction", "comingofage"]
+    },
+    {
+      "Id": 5,
+      "cover": "https://img.freepik.com/free-psd/furniture-facebook-cover-web-banner-template_237398-243.jpg?t=st=1710963455~exp=1710967055~hmac=d76023fc86784348f06a65e89dd8285f73ae8ce30ea1d9d6f90258267849386f&w=826",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "author_img": "https://img.freepik.com/free-photo/guy-plaid-shirt_158595-125.jpg?t=st=1710963620~exp=1710967220~hmac=f3d5e5c6c37a6cb31e5d923654fc23856ac1da0a3fa4e24180711ba536a15755&w=360",
+      "posted_date": "2024-03-20",
+      "reading_time": 180, 
+      "hashtags": ["classic", "romance", "literature"]
+    }
+  ]
+  
